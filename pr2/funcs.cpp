@@ -1,4 +1,3 @@
-
 //funcs.cpp
 #include <iostream>
 #include "funcs.h"
@@ -14,12 +13,11 @@ double subtraction(double a, double b) {
 }
 
 double multiplication(double a, double b) {
-    std::cout << "Function Multiplication is under development" << std::endl;
     return a * b;
 }
 
 double division(double a, double b) {
-    std::cout << "Function Division is under development" << std::endl;
+
     if (b != 0) {
         return a / b;
     } else {
