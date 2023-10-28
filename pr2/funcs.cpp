@@ -17,7 +17,7 @@ double multiplication(double a, double b) {
 }
 
 double division(double a, double b) {
-    std::cout << "Function Division is under development" << std::endl;
+
     if (b != 0) {
         return a / b;
     } else {
