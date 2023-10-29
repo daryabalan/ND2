@@ -1,15 +1,12 @@
-
 //funcs.cpp
 #include <iostream>
 #include "funcs.h"
 
-double addition(double a, double b) {
-    std::cout << "Function Addition is under development" << std::endl;
+double addition(double a, double b) 
     return a + b;
 }
 
 double subtraction(double a, double b) {
-    std::cout << "Function Subtraction is under development" << std::endl;
     return a - b;
 }
 
