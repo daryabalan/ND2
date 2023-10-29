@@ -2,7 +2,8 @@
 #include <iostream>
 #include "funcs.h"
 
-double addition(double a, double b) 
+double addition(double a, double b) {
+
     return a + b;
 }
 
